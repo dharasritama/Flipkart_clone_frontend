@@ -15,6 +15,7 @@ import {
   Container,
   Box,
 } from "@mui/material";
+import Chart from 'chart.js/auto';
 import Search from "./Search";
 import Login from "./Login";
 import Signup from "./Signup";
